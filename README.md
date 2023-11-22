@@ -55,7 +55,7 @@ mostFavourteSubject($students);
 
 
 ````php````
-```shell```
+
 ## output 
 
 "database"
